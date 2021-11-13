@@ -1,0 +1,1 @@
+# Smartedu-Django-proj
